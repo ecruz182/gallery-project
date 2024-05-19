@@ -4,8 +4,7 @@ import img4 from '../images/Img4.jpg'
 const Cmadrid4 = () => {
   return (
     <div>
-        <img src={img4} alt="Paisaje de madrid" />
-      
+        <img src={img4} alt="Paisaje de madrid" />      
     </div>
   )
 }

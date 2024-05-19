@@ -5,7 +5,6 @@ const Cmadrid8 = () => {
   return (
     <div>
         <img src={img8} alt="Paisaje de madrid" />
-      
     </div>
   )
 }

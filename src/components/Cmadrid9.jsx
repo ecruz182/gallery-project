@@ -3,8 +3,8 @@ import img9 from '../images/Img9.jpg'
 
 const Cmadrid9 = () => {
   return (
-    <div>
-        <img src={img9} alt="Paisaje de madrid" />
+    <div className="container">
+        <img src={img9} alt="Paisaje de madrid" className="image"/>
       
     </div>
   )
